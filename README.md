@@ -24,7 +24,7 @@ ie8下的兼容问题处理：背景透明，css3圆角，css3和jquery支持部
     <!--全局css-->
     <link rel="stylesheet" type="text/css" href="../../../public/css/global.css"/>
     </head>
- *****   
+* * * *
 *脚本js：如果是其他的插件和逻辑js就添加在 </body>的上方。注意顺序，插件js优先添加。*
 
     <script src="../../../public/js/jquery.easydropdown.js"></script>
@@ -34,4 +34,4 @@ ie8下的兼容问题处理：背景透明，css3圆角，css3和jquery支持部
     <script src="../js/calcPrice.js"></script>
     </body>
     </html>
-
+* * * *
